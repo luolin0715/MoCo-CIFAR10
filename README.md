@@ -1,4 +1,4 @@
-# MoCo-CIFAR-10
+# MoCo-CIFAR10
 ### Preparation
 Download [CIFAR-10-python.tar.gz](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz) and unzip it into ```./data/```
 ### Pretrain

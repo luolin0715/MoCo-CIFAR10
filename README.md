@@ -7,5 +7,5 @@ python demo.py
 ```
 ### Train
 ```bash
-python demo-lincls.py
+python demo_lincls.py
 ```
